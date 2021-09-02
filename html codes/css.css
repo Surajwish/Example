@@ -1,0 +1,56 @@
+body  { 
+color:cadetblue;
+text-align:center;
+ background-color: ivory;
+ height: 50px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+}
+
+#toblock{display:block;}
+
+#left{
+display:inline;
+text-align:left;
+}
+
+#heading {
+	display:inline;
+ text-align:center;
+font-family: Cursive;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+th{background-color:yellow;}
+
+table { margin-left:auto ;
+margin-right: auto;
+}
+
+ .fav { font-size: 20px;
+ color:Orange;
+}
+
+nav a{
+	border: 2px solid black;
+	padding: 10px;
+	margin: auto;
+	color: red;
+	background-color:rgb(255, 255, 153);
+}
+
+nav a:visited {
+  color: red;
+  background-color:rgb(255, 153, 102);
+}
+nav a:hover { color:green;
+cursor:pointer;
+background-color:rgb(255, 153, 102);
+font-size:120%;
+}
