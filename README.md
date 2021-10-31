@@ -10,8 +10,13 @@ Github link - https://github.com/Surajwish/To-Do-List
 
 https://swash-hitamole.netlify.app/
 
-Github linl - https://github.com/Surajwish/Whack-a-mole--game
+Github link - https://github.com/Surajwish/Whack-a-mole--game
 
 https://swash-rock-paper-scissors.netlify.app/
 
 Github link - https://github.com/Surajwish/Rock-Paper-Scissors
+
+https://swash-covid-tracker.netlify.app/
+
+Github link - 
+
