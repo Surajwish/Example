@@ -18,5 +18,5 @@ Github link - https://github.com/Surajwish/Rock-Paper-Scissors
 
 https://swash-covid-tracker.netlify.app/
 
-Github link - 
+Github link - https://github.com/Surajwish/CovidTracker
 
