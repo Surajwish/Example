@@ -28,6 +28,10 @@ Github link - https://github.com/Surajwish/To-Do-List
 
 Github link - https://github.com/Surajwish/Whack-a-mole--game
 
+8) https://swash-sorting-visualizer.netlify.app/
+
+Github link -  https://github.com/Surajwish/sortingVisualizer
+
 
 
 
